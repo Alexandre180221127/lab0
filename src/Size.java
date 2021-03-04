@@ -19,9 +19,7 @@ public enum Size {
 
     @Override
     public String toString() {
-        return "Size{" +
-                "description='" + description + '\'' +
-                '}';
+        return this.description;
     }
 
     public String getDescription() {
