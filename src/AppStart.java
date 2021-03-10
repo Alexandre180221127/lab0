@@ -8,6 +8,6 @@ public class AppStart {
         System.out.println("Valor minimo : " + size.getMinValue());
         System.out.println("Valor maximo : " + size.getMaxValue());
         System.out.println("Codigo       : " + size.getCode());
-        System.out.println("Versao modificada");
+        System.out.println("Versao modificada2");
     }
 }
